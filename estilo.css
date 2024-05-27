@@ -1,0 +1,12 @@
+body {
+    font-family: "colasta";
+    color: rgb(112, 198, 233);
+    background-color: rgb(2, 38, 68);
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+ul a{
+    color: #fff;
+}
